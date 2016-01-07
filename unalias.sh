@@ -1,1 +1,1 @@
-unalias save
+rm -rf ~/.tcshrc
