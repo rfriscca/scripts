@@ -1,1 +1,3 @@
-rm -rf ~/.tcshrc
+rm ~/.tcshrc
+touch ~/.tcshrc
+source ~/.tcshrc
